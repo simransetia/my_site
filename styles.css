@@ -1,0 +1,172 @@
+body{
+  background-color: #effcef;
+  text-align: center;
+  color: #94d3ac;
+  font-family: 'Roboto', sans-serif;
+}
+h3{
+  font-family:'Orbitron', sans-serif;
+  color:#655c56;
+}
+h2{
+  font-family: 'Orbitron', sans-serif;
+  color:#655c56;
+}
+p{
+  font-family: "lobster";
+  display:inline-block;
+}
+h1{
+  font-family: 'Great Vibes', cursive;
+  margin-top: 100px;
+  margin-bottom: 0;
+  display: inline-block;
+  font-size: 3rem;
+  color:#655c56;
+}
+.one{
+  text-align: center;
+
+ }
+.photo{
+  width:30%;
+  height: 30%;
+}
+.top-heart{
+  width:2rem;
+  height:2rem;
+  position: absolute;
+  top:8rem;
+  left: 10rem;
+}
+.second-heart{
+  width:2rem;
+  height:2rem;
+}
+hr{
+  border-style:  dotted;
+  border-bottom: none;
+  border-top-width: 1rem;
+  width: 10%;
+  text-align:center;
+}
+.menubar{
+  text-align: center;
+  background-color: #655c56;
+  position:fixed;
+  width:100%;
+  margin:0 auto 0;
+
+}
+p{
+ display: inline-block;
+ width:50%;
+ margin-top: 0;
+}
+.two{
+  margin-top: 10rem;
+  text-align: center;
+}
+table{
+  text-align: center;
+  display: inline-block;
+  padding:2rem;
+}
+.pphoto{
+  float: left;
+  width:15rem;
+  height: 15rem;
+  border-radius: 100%
+}
+.hphoto{
+
+  width:15rem;
+  height:15rem;
+  float: right;
+}
+.my-hobbies{
+  margin-top: 10rem;
+}
+.skills{
+  margin-top: 10rem;
+}
+ul{
+  list-style-type: lower-roman;
+}
+thead{
+  color:#655c56;
+}
+.ephoto{
+  width:10rem;
+  height: 15rem;
+  float: right;
+}
+.skills{
+  margin: 10rem auto 10rem;
+}
+.education{
+  margin: 10rem auto 10rem;
+}
+.extra{
+  margin: 10rem auto 20rem;
+}
+.button{
+  box-shadow:inset 0 7px 0 0 #56de31;
+	background:linear-gradient(to bottom, #44c767 5%, #7dc257 100%);
+	background-color:#44c767;
+	border-radius:6px;
+	border:1px solid #2d8035;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:9px 15px;
+	text-decoration:none;
+	text-shadow:0 2px 0 #2f6627;
+}
+.Button:hover {
+	background:linear-gradient(to bottom, #7dc257 5%, #44c767 100%);
+	background-color:#7dc257;
+}
+.Button:active {
+	position:relative;
+	top:1px;
+}
+.mphoto{
+  height: 1rem;
+  width:1rem;
+  margin-right:10px;
+}
+.search{
+  padding: 1rem;
+  font-size: 1rem;
+  border: 1px solid grey;
+  float: left;
+  width: 10rem;
+  background: #f1f1f1;
+  text-align: right;
+}
+.form{
+  display: absolute;
+  top:100rem;
+  display: inline-block;
+}
+.info{
+  margin-top: 10rem;
+}
+.end{
+  text-align: center;
+  background-color:#655c56;
+  margin: 10rem auto 0;
+}
+a{
+  font-family: "Fredoka One";
+  text-decoration: none;
+  color:white;
+  float: inherit;
+}
+a:hover{
+  color:blue;
+}
